@@ -1,0 +1,1 @@
+{"rustc":14715343205281380114,"features":"[]","target":1875196738617645218,"profile":11870183705523825133,"path":12855024521173326808,"deps":[["futures v0.1.27","futures",15336471296929475868],["log v0.4.6","log",10630287695835926738],["try-lock v0.2.2","try_lock",4248250069700142372]],"local":[{"Precalculated":"0.0.6"}],"rustflags":[],"edition":"Edition2015"}

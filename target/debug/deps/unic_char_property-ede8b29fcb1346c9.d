@@ -1,0 +1,10 @@
+/home/naufil/Desktop/rust/3june/todocopy/target/debug/deps/libunic_char_property-ede8b29fcb1346c9.rlib: /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs
+
+/home/naufil/Desktop/rust/3june/todocopy/target/debug/deps/unic_char_property-ede8b29fcb1346c9.d: /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs
+
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs:

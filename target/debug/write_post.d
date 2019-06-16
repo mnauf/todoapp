@@ -1,0 +1,1 @@
+/home/naufil/Desktop/rust/3june/todo/target/debug/write_post: /home/naufil/Desktop/rust/3june/todo/src/bin/write_post.rs /home/naufil/Desktop/rust/3june/todo/src/lib.rs /home/naufil/Desktop/rust/3june/todo/src/models.rs /home/naufil/Desktop/rust/3june/todo/src/schema.rs

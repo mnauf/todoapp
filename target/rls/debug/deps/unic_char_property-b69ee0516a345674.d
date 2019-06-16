@@ -1,0 +1,10 @@
+/home/naufil/Desktop/rust/3june/todocopy/target/rls/debug/deps/unic_char_property-b69ee0516a345674.rmeta: /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs
+
+/home/naufil/Desktop/rust/3june/todocopy/target/rls/debug/deps/unic_char_property-b69ee0516a345674.d: /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs
+
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs:

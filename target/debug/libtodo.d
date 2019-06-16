@@ -1,0 +1,1 @@
+/home/naufil/Desktop/rust/3june/todocopy/target/debug/libtodo.rlib: /home/naufil/Desktop/rust/3june/todocopy/src/lib.rs /home/naufil/Desktop/rust/3june/todocopy/src/models.rs /home/naufil/Desktop/rust/3june/todocopy/src/schema.rs

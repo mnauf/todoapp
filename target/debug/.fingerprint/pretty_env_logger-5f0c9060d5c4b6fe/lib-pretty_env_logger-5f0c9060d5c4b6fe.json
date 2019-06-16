@@ -1,0 +1,1 @@
+{"rustc":14715343205281380114,"features":"[]","target":16973773090733190697,"profile":11870183705523825133,"path":15528205209569700013,"deps":[["chrono v0.4.6","chrono",7008011628974768005],["env_logger v0.6.1","env_logger",4102889315991251670],["log v0.4.6","log",10630287695835926738]],"local":[{"Precalculated":"0.3.0"}],"rustflags":[],"edition":"Edition2015"}

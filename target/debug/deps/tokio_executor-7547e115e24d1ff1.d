@@ -1,0 +1,11 @@
+/home/naufil/Desktop/rust/3june/todocopy/target/debug/deps/libtokio_executor-7547e115e24d1ff1.rlib: /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/lib.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/enter.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/error.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/executor.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/global.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/park.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/typed.rs
+
+/home/naufil/Desktop/rust/3june/todocopy/target/debug/deps/tokio_executor-7547e115e24d1ff1.d: /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/lib.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/enter.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/error.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/executor.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/global.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/park.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/typed.rs
+
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/lib.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/enter.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/error.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/executor.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/global.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/park.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/typed.rs:
